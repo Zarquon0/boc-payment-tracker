@@ -4,7 +4,8 @@ An email scraper for the purpose of extracting precise data regarding payments f
 # Set Up and Usage
 In order to be able to run this payment tracker, you will need two things:
 - Access to the brownouting.service@gmail.com account
-- A `credentials.json` file 
+- A `credentials.json` file
+
 If you do not have either of those things and would like to be able to run this, please contact me and we'll get you set up. Or, if you have access to the email, you could try to find the credentials file yourself on Google OAuth for the project.
 
 Once you have those, clone this repo and add the `credentials.json` file to the project folder. Then, set up your virtual environment:
